@@ -1,4 +1,5 @@
-# silverstripe
+# silverstripe Responsive slideshow
+
 Silverstripe module for responsive slideshow
 
 Usage:<br/>
