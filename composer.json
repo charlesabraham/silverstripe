@@ -1,0 +1,18 @@
+{
+	  "name": "charlesabraham/responsive-slideshow",
+	  "description": "A responsive slideshow which automatically adjusts to screensize",
+	  "type": "silverstripe-module",
+	  "homepage": "https://github.com/charlesabraham/silverstripe",
+	  "keywords": ["silverstripe", "slideshow", "carousel","responsive"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Charles Abraham","email": "mtageec014@gmail.com"}
+	  ],
+	  "support": {
+	    "issues": "https://github.com/charlesabraham/silverstripe/issues"
+	  },
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+}	
