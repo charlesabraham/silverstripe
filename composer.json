@@ -12,7 +12,15 @@
 	    "issues": "https://github.com/charlesabraham/silverstripe/issues"
 	  },
 	  "require": {
-	    "silverstripe/cms": "^3.0",
-	    "silverstripe/framework": "^3.0"
-	  }
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  },    
+    "extra": {
+    "installer-name": "responsive-slideshow",
+    "screenshots": [
+      "/icons/slideshow-form.png",
+      "/icons/slideshow-sidebar.png"
+    ]
+  }
+
 }	
